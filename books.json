@@ -1,0 +1,16 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "year": 1949,
+    "cover": "https://covers.openlibrary.org/b/id/7222246-L.jpg"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classic",
+    "year": 1960,
+    "cover": "https://covers.openlibrary.org/b/id/8228691-L.jpg"
+  }
+]
